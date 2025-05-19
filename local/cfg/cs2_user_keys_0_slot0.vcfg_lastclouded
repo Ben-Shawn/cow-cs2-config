@@ -51,7 +51,7 @@
 		"F10"		"incrementvar cl_crosshaircolor 0 4 1"
 		"MOUSE1"		"+attack"
 		"MOUSE2"		"+attack2"
-		"MOUSE3"		"switchhands"
+		"MOUSE3"		"swapleft"
 		"MOUSE5"		"slot10"
 		"MWHEELUP"		"invprev"
 		"MWHEELDOWN"		"+jump"
