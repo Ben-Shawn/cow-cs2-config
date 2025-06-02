@@ -1,0 +1,4 @@
+local/**
+*.vcfg
+gamemode_*.cfg
+server_default.cfg
