@@ -51,7 +51,7 @@
 		"F10"		"incrementvar cl_crosshaircolor 0 4 1"
 		"MOUSE1"		"+attack"
 		"MOUSE2"		"+attack2"
-		"MOUSE3"		"swapleft"
+		"MOUSE3"		"switchhands"
 		"MOUSE5"		"slot10"
 		"MWHEELUP"		"invprev"
 		"MWHEELDOWN"		"+jump"
@@ -81,6 +81,9 @@
 		"PGUP"		"volume .41"
 		"F9"		"crosshair_cycle"
 		"PAUSE"		"slot12"
+		"/"		"sv_rethrow_last_grenade"
+		"ENTER"		"ent_fire script Enter"
+		"BACKSPACE"		"ent_fire script Backspace"
 	}
 	"analogbindings"
 	{
