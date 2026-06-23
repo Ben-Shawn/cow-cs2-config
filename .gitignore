@@ -1,3 +1,4 @@
+devonly/**
 local/**
 *.vcfg
 gamemode_*.cfg
